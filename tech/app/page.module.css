@@ -571,7 +571,7 @@
 /* What We Do Section */
 .whatWeDoSection {
   background: linear-gradient(180deg, #001a3d 0%, #00132e 100%);
-  padding-top: 100%;
+  padding-top: 60px;
   padding-left: 240px;
   padding-right: 240px;
   position: relative;
